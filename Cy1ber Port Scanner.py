@@ -4,8 +4,7 @@ import time
 import os
 from colored import fg, bg, attr
 deep_ping = fg("deep_pink_4a")
-# coding=utf-8
-# obfuscated with plusobf: https://github.com/loolzec/plusobf
+
 
 
 
